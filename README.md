@@ -10,4 +10,4 @@ Eclipse projects:
 
 Run configurations for Acceleo transformations and the ETL adaptor can be found under the [launchers](https://github.com/Maluen/acceleo-coevolution/tree/master/launchers) folder.
 
-See Report.pdf for detailed information.
+See [Report.pdf](https://github.com/Maluen/acceleo-coevolution/blob/master/Report.pdf) for detailed information.
